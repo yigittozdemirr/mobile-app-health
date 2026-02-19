@@ -24,8 +24,7 @@ Icons: Lucide-React-Native
 State Management: React Hooks (useState, useEffect)
 
 🚀 How to Run
-Clone the repository: git clone https://github.com/yourusername/medical-assistant-app.git
-
+Clone the repository: git clone https://github.com/yigittozdemirr/mobile-app-health
 Install dependencies: npm install
 
 Start the project: npx expo start
@@ -59,7 +58,7 @@ Navigasyon: React Navigation (Drawer & Stack)
 State Yönetimi: React Hooks (useState, useEffect)
 
 🚀 Nasıl Çalıştırılır?
-Repoyu klonlayın: git clone https://github.com/kullaniciadin/medical-assistant-app.git
+Repoyu klonlayın: git clone https://github.com/yigittozdemirr/mobile-app-health
 
 Bağımlılıkları yükleyin: npm install
 
